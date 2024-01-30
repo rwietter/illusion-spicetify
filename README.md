@@ -48,14 +48,14 @@ Illusion is a dark theme for Spotify that is based on the [Dribbblish](https://g
 ## Colorscheme
 
 ```
-*color0: "#6E6C7E",
+*color0: "#0F0F11",
 *color1: "#F48FB1",
 *color2: "#A1EFD3",
 *color3: "#EBDDAA",
 *color4: "#A4B9EF",
 *color5: "#BD99FF",
 *color6: "#87DFEB",
-*color7: "#DADAE8"
+*color7: "#FFFFFF"
 ```
 
 ## Contributions
