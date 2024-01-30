@@ -7,16 +7,12 @@
 		"usercss": "Illusion/user.css",
 		"schemes": "Illusion/color.ini",
 		"include": [
-			"https://raw.githubusercontent.com/spicetify/spicetify-themes/master/Dribbblish/theme.js"
+			"https://cdn.jsdelivr.net/gh/rwietter/illusion-spicetify@master/Illusion/theme.js"
 		],
 		"authors": [
 			{
-				"name": "khanhas",
-				"url": "https://github.com/khanhas"
-			},
-			{
-				"name": "harbassan",
-				"url": "https://github.com/harbassan"
+				"name": "Maurício Witter",
+				"url": "https://github.com/rwietter"
 			}
 		],
 		"tags": [

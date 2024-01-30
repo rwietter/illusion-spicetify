@@ -217,7 +217,7 @@ function legacy() {
                         img.classList.add("playlist-picture");
                         link.prepend(img);
                     }
-                    img.src = base64 || "https://cdn.jsdelivr.net/gh/spicetify/spicetify-themes@master/Dribbblish/images/tracklist-row-song-fallback.svg";
+                    img.src = base64 || "https://cdn.jsdelivr.net/gh/rwietter/illusion-spicetify@master/Illusion/assets/song-fallback.svg";
                     continue;
                 }
 
@@ -229,7 +229,7 @@ function legacy() {
                         img.classList.add("playlist-picture");
                         link.prepend(img);
                     }
-                    img.src = meta.picture || "https://cdn.jsdelivr.net/gh/spicetify/spicetify-themes@master/Dribbblish/images/tracklist-row-song-fallback.svg";
+                    img.src = meta.picture || "https://cdn.jsdelivr.net/gh/rwietter/illusion-spicetify@master/Illusion/assets/song-fallback.svg";
                 });
             }
         }
