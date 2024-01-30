@@ -1,8 +1,10 @@
 # Illusion for Spicetify
 
-Illusion is a dark theme for Spotify that is based on the [Dribbblish](https://github.com/spicetify/spicetify-themes). It is designed to be minimalistic and clean, while also being easy on the eyes.
+[Illusion](https://github.com/rwietter/illusion-spicetify) is a dark theme for Spotify that is based on the [Dribbblish](https://github.com/spicetify/spicetify-themes). It is designed to be minimalistic and clean, while also being easy on the eyes.
 
-![Illusion](https://i.imgur.com/9ZQ4Z9q.png)
+![Playlist](https://0x0.st/HDBZ.png)
+
+![Home](https://0x0.st/HDBq.png)
 
 ## Notes:
 
