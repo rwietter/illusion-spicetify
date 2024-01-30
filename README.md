@@ -45,6 +45,8 @@
 3.  Choose which theme to apply just by running:
     ```bash
     spicetify config current_theme Illusion color_scheme Base
+    spicetify config inject_css 1 replace_colors 1 overwrite_assets 1 inject_theme_js 1
+    spicetify apply
     ```
 
 ## Colorscheme
